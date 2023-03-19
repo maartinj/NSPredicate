@@ -7,6 +7,8 @@ A brief review of using the array filter method to filter an array
 */
 import Foundation
 
+// Film: https://www.youtube.com/watch?v=9CoUUCL03tA&ab_channel=StewartLynch
+
 code(for: "Array Filter") {
     // The athlete with the first name "Carson"
     let firstNameIsCarson = Athlete.all
